@@ -21,7 +21,7 @@ yarn install
 'yarn start' in the client folder .
 ```
 
-## Deployment instructions on Vercel
+# Deployment instructions on Vercel
 
 1. You will need a Vercel Account for deployment
 
@@ -33,8 +33,8 @@ yarn install
 CI=false yarn run build
 ```
 
-4.Wait for deployment to complete.
+4. Wait for deployment to complete.
 
-5.All done.
+5. All done.
 
 [Vercel Deployment](https://vercel.com/guides/deploying-react-with-vercel-cra)
