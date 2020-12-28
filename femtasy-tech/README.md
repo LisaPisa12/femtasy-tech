@@ -23,19 +23,18 @@ yarn install
 
 ## Deployment instructions on Vercel
 
-1.You will need a Vercel Account for deployment
+1. You will need a Vercel Account for deployment
 
-2.Import the project into Vercel from Github
+2. Import the project into Vercel from Github
+
+3. Build Command type:
 
 ```
-3.Build Command type:
-
-```
-
 CI=false yarn run build
-
 ```
+
 4.Wait for deployment to complete.
 
 5.All done.
-```
+
+[Vercel Deployment](https://vercel.com/guides/deploying-react-with-vercel-cra)
