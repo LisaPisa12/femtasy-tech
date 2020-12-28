@@ -1,5 +1,7 @@
 ## Getting started
 
+# Running the project locally
+
 1. Clone the repo
 
 ```
@@ -17,4 +19,23 @@ yarn install
 
 ```
 'yarn start' in the client folder .
+```
+
+## Deployment instructions on Vercel
+
+1.You will need a Vercel Account for deployment
+
+2.Import the project into Vercel from Github
+
+```
+3.Build Command type:
+
+```
+
+CI=false yarn run build
+
+```
+4.Wait for deployment to complete.
+
+5.All done.
 ```
